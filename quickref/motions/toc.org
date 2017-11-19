@@ -1,5 +1,5 @@
 * 移動のコマンド
 ** 左右の移動
-[[./LeftRight.org][左右]]
+[[./move/LeftRight.org][左右]]
 ** 上下の移動
-[[./UpDown.org][上下]]
+[[./move/UpDown.org][上下]]
