@@ -1,4 +1,4 @@
-toc:t
+#+OPTIONS:toc:t
 * 移動のコマンド
 ** 左右の移動
 | N h | 左に N 桁移動 (CTRL-H, <BS>, <Left> キーでも同じ) |
