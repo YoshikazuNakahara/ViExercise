@@ -1,6 +1,5 @@
-#+LINK: doc file+sys:~/vi/quickref/motions/
 * 移動のコマンド
 ** 左右の移動
-[[~/vi/quickref/motions/LeftRight.org][左右]]
+[[./LeftRight.org][左右]]
 ** 上下の移動
-[[~/vi/quickref/motions/UpDown.org][上下]]
+[[./UpDown.org][上下]]
